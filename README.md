@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Eu sou o Carlos Zaparoli 🖐️
 
-<!--
-**carloszaparoli/carloszaparoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jos%C3%A9-zaparoli-gomes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carloszaparoli_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlosjose.zaparoligomes/)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloszaparoli&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
