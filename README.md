@@ -12,12 +12,15 @@
 ## Skills
 
 <div style="display: inline_block">
-  <img align="center" alt="HMTL" src="https://img.shields.io/badge/HTML-E85029?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-30AADB?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F2BF26?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-1B1E24.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="HMTL" src="https://img.shields.io/badge/HTML-E34F26?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="NestJS" src="https://img.shields.io/badge/Nest.JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
